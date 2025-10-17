@@ -11,10 +11,10 @@ A React app for building audience segments by choosing and customizing schema fi
 
 ## Installation
 
-git clone <your-repo-url>
-cd <your-folder>
-npm install
-npm run dev
+- git clone https://github.com/seshu-yaswanth-2001/task.git
+- cd task
+- npm install
+- npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 

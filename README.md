@@ -11,10 +11,21 @@ A React app for building audience segments by choosing and customizing schema fi
 
 ## Installation
 
+```bash
 - git clone https://github.com/seshu-yaswanth-2001/task.git
+```
+
+```bash
 - cd task
+```
+
+```bash
 - npm install
+```
+
+```bash
 - npm run dev
+```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
@@ -29,8 +40,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Project Structure
 
+```
 src/
-![alt text](image.png)
+├── components/
+│ ├── SchemaRow.jsx # Trait row UI and logic
+│ └── SegmentModal.jsx # Modal, form, segment logic
+├── App.jsx # Main layout, modal trigger
+├── index.jsx # Entry point
+├── index.css # Tailwind CSS styles
+```
 
 ## Customization
 

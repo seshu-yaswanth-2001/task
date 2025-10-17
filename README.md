@@ -30,12 +30,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## Project Structure
 
 src/
-├── components/
-│ ├── SchemaRow.jsx # Trait row UI and logic
-│ └── SegmentModal.jsx # Modal, form, segment logic
-├── App.jsx # Main layout, modal trigger
-├── index.jsx # Entry point
-├── index.css # Tailwind CSS styles
+![alt text](image.png)
 
 ## Customization
 
